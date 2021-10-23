@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "davidMateo",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
+        "title": "davimatcom",
         "tagline": "Header Tagline",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
