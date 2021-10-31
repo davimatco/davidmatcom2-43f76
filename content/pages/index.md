@@ -6,13 +6,13 @@ sections:
     type: section_hero
     title: "Hola, soy Mateo Acosta"
     content: >-
-      En esta pagina podras conocer un poco mas de mi, asi como tambien conocer mis proyectos y saber un poco mas de temas de interes que estare publicando en mi blog.
-      Puedes seguirme en mis redes sociales.
+      Soy estudiante y ocacionalmente ayudante, en esta pagina podras conocer un poco mas de mi, asi como tambien conocer mis proyectos y saber un poco mas de temas de interes que estare publicando en mi blog.
+      sigueme en mis redes sociales.
   - section_id: about
     type: section_content
     title: About
     content: >-
-      sigueme en mis redes sociales y contactame si quieres saber un poco mas de mi o si necesitas alguna ayuda en algo que necesites.
+      sigueme en mis redes sociales y contactame si quieres saber un poco mas de mi o si necesitas alguna ayuda en algo que precises.
     actions:
       - label: Contact Me
         url: /contact
