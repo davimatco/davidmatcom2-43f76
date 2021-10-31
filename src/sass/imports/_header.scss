@@ -2,9 +2,9 @@
  * Site Header
  */
 .site-header {
-  background: #fff;
+  background:  #017da7;
   border-bottom: 1px solid _palette(border);
-  color: _palette(primary);
+  color: _palette(colorheader);
 }
 
 .site-header-inside {
@@ -84,7 +84,7 @@
 }
 
 .site-navigation {
-  background: #fff;
+  background: #017da7;;
   bottom: 0;
   box-sizing: border-box;
   -webkit-overflow-scrolling: touch;

@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: About
     content: >-
-      sigueme en mis redes sociales y contactame para poder charlar un poco mas y saber mas de ti asi como tu de mi.
+      sigueme en mis redes sociales y contactame si quieres saber un poco mas de mi o si necesitas alguna ayuda en algo que necesites.
     actions:
       - label: Contact Me
         url: /contact
