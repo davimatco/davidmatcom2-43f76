@@ -5,7 +5,7 @@
     "palette": "blue",
     "header": {
         "title": "davimatco",
-        "tagline": "Header Tagline",
+        "tagline": "vivir una vida de cero arrepentimientos",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
@@ -22,11 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -40,29 +35,29 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "facebook",
+                "url": "https://www.facebook.com/profile.php?id=100073428623672",
                 "style": "icon",
-                "icon_class": "twitter",
+                "icon_class": "facebook",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/davimatco/",
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/davimatco",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/david-mateo-acosta-moreno-8b057a1a6",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
