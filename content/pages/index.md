@@ -4,30 +4,23 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
+    title: "Hola, soy Mateo Acosta"
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      En esta pagina podras conocer un poco mas de mi, asi como tambien conocer mis proyectos y saber un poco mas de temas de interes que estare publicando en mi blog.
+      Puedes seguirme en mis redes sociales.
   - section_id: about
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      sigueme en mis redes sociales y contactame para poder charlar un poco mas y saber mas de ti asi como tu de mi.
     actions:
       - label: Contact Me
         url: /contact
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: ultimos post
     posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
