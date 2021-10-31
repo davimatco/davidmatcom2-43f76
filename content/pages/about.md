@@ -35,5 +35,5 @@ layout: page
 Hola mi nombre es david Mateo tengo 18 años actualmente vivo en la ciudad de Bogotá, Colombia soy estudiante de mecatronica y tambien de programacion enfocado a fronted y a data analytics.
 me gusta aprender cosas nuevas todos los dias asi como tambien ayudar a otras personas con mis conocimietos.
 
-Actualmente busco simepre la forma de apreder cosas nuevas asi como de ser mejor persona esto debido a que tengo la creencia de que si mejoramos como personas podemos mejorar como sociedad 
+Actualmente busco siempre la forma de apreder cosas nuevas asi como de ser mejor persona esto debido a que tengo la creencia de que si mejoramos como personas podemos mejorar como sociedad.
 
