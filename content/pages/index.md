@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: "Hola, soy Mateo Acosta"
     content: >-
-      Soy estudiante y ocacionalmente ayudante, en esta pagina podras conocer un poco mas de mi, asi como tambien conocer mis proyectos y saber un poco mas de temas de interes que estare publicando en mi blog.
+      Soy estudiante y ocacionalmente, en esta pagina podras conocer un poco mas de mi, asi como tambien conocer mis proyectos y saber un poco mas de temas de interes que estare publicando en mi blog.
       sigueme en mis redes sociales.
   - section_id: about
     type: section_content
