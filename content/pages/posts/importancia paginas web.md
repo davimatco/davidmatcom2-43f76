@@ -1,7 +1,7 @@
 ---
 title: Porque es impotante tener un blog o pagina web en la industria digital?
 excerpt: >-
-  MUchas personas y empresas actualmente buscan a sus empleados por medio de las plataformas digitales asi como tambien personas que esten buscando temas e interes que les ayuden, pero como influir y ser parte de ello?  
+  muchas personas y empresas actualmente buscan a sus empleados por medio de las plataformas digitales asi como tambien personas que esten buscando temas e interes que les ayuden, pero como influir y ser parte de ello?  
 date: '2021-11-11'
 thumb_img_path: images/estrategiasdecreación.jpg
 thumb_img_alt: Hikers on the trail
