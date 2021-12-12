@@ -46,4 +46,6 @@ layout: post
 
 Photo by [Katerina Bartosova.](https://unsplash.com/photos/SAfJ1eTBeyk)
 
-mis sss **hola**
+**hola** la programación es uno de los pilares de nuestra sociedad hoy en día, ya esta en todas partes asi no la veamos,  esta en nuestros celulares, carros, motos, televisores etc
+
+Por ello decidi empezar a estudiar un poco de esta area, también debido a que me llamaba mucho la atención y por ello comenze 
