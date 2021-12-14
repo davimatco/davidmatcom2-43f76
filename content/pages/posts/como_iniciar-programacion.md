@@ -3,11 +3,11 @@ title: como inicie en programacion
 subtitle: >-
  mi camino en la programacion.
 excerpt: >-
-   no se necesita mayor cosa para aprender a prograr solo talento y diciplina, cualquier persona puede aprender a hacerlo.
+   para empezar a programar no necesitamos de muchos conocimeto solo ganas de hacerlo y un computador.
 date: '2021-10-12'
-thumb_img_path: images/5.jpg
+thumb_img_path: images/images_post.jpg
 thumb_img_alt: A red fox in a rocky forest
-content_img_path: images/5.jpg
+content_img_path: images/images_post.jpg
 content_img_alt: A red fox in a rocky forest
 seo:
   title: Fox Village In Japan
