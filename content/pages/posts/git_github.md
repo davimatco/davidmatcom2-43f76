@@ -42,4 +42,6 @@ layout: post
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
 
-**git y github** son controladores de verisones que nos permiten por medio de dichas versiones tener un control de nuestros proyectos o trabajos en codigo
+**git y github** son controladores de verisones que nos permiten por medio de dichas versiones tener un control de nuestros proyectos o trabajos en codigo, pero porque es importante en programacion?
+
+git por defecto es el controlador de versiones mas usado en el mundo y es muy util debido a la forma en la que se estructura la informacion y las versiones de nuestros proyectos, tambien debido a que nos permite tener un historial y hacer viajes en dicho historial para regresar a anteriores versiones en caso de que las ultimas modifcaciones no esten bien o toque tarer modificaciones de anteriores commits, pero que es un commit? un commit es en pocas palabras un pedacito de nuestro codigo que se va guardando de acuerdo a los cambios que hagamos 
