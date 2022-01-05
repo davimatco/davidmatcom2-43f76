@@ -6,13 +6,13 @@ sections:
     type: section_hero
     title: "Hola, soy David Mateo Acosta"
     content: >-
-      Soy estudiante de mecatronica y programacion, en esta pagina podras conocer un poco mas de mi, asi como tambien conocer mis proyectos y saber un poco mas de temas de interes que estare publicando en mi blog.
+      Soy estudiante de mecatronica y programacion, en esta pagina podras conocer un poco mas de mi, asi como tambien conocer mis proyectos y saber un poco mas de temas de interes que estare publicando en mi blog,
       sigueme en mis redes sociales.
   - section_id: about
     type: section_content
     title: About
     content: >-
-      sigueme en mis redes sociales y contactame si quieres saber un poco mas de mi o si necesitas alguna ayuda en algo que precises.
+      Sigueme en mis redes sociales y contactame si quieres saber un poco mas de mi o en cualquier cosa que pueda ayudar.
     actions:
       - label: Contact Me
         url: /contact

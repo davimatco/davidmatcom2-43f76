@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: aca podras podras contactarme si uqieres saber mas de mi o mi trabajo 
+    content: aca podras podras contactarme si quieres saber mas de mi o mis proyectos
     form_id: contactForm
     form_action: /thank-you
     form_fields:
