@@ -40,7 +40,7 @@ seo:
 layout: post
 ---
 
-Photo by [MATEO acosta](https://unsplash.com/photos/uO4Au3LrCtk)
+Photo by [Mateo acosta M.](https://www.instagram.com/davimatco/?hl=es-la)
 
 **Boyaca** un departamento al nor-oriente de Colombia donde la mayoria de sus pueblos son de clima frio en algunos lugares en la noche llegan a alcanzar los 4 grados centigrados y cultura esta llena de tradiciones y ruanas las cuales son un tipo de abrigo suelto sin mangas tradicionales de esta region al igual que la papa la cual es el pricipal alimento que se cosecha.
 
